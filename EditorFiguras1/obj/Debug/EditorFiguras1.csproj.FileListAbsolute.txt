@@ -1,0 +1,273 @@
+C:\Users\lluis\Desktop\Visual 2018\C#\EditorFiguras1\EditorFiguras1\bin\Debug\EditorFiguras1.exe.config
+C:\Users\lluis\Desktop\Visual 2018\C#\EditorFiguras1\EditorFiguras1\bin\Debug\EditorFiguras1.exe
+C:\Users\lluis\Desktop\Visual 2018\C#\EditorFiguras1\EditorFiguras1\bin\Debug\EditorFiguras1.pdb
+C:\Users\lluis\Desktop\Visual 2018\C#\EditorFiguras1\EditorFiguras1\obj\Debug\EditorFiguras1.Form1.resources
+C:\Users\lluis\Desktop\Visual 2018\C#\EditorFiguras1\EditorFiguras1\obj\Debug\EditorFiguras1.Properties.Resources.resources
+C:\Users\lluis\Desktop\Visual 2018\C#\EditorFiguras1\EditorFiguras1\obj\Debug\EditorFiguras1.csproj.GenerateResource.Cache
+C:\Users\lluis\Desktop\Visual 2018\C#\EditorFiguras1\EditorFiguras1\obj\Debug\EditorFiguras1.exe
+C:\Users\lluis\Desktop\Visual 2018\C#\EditorFiguras1\EditorFiguras1\obj\Debug\EditorFiguras1.pdb
+C:\Users\lluis\Desktop\Visual 2018\C#\EditorFiguras1\EditorFiguras1\obj\Debug\EditorFiguras1.csprojResolveAssemblyReference.cache
+C:\Users\lluis\Desktop\Visual 2018\C#\9._EditorGrafoB\EditorFiguras1\bin\Debug\EditorFiguras1.exe.config
+C:\Users\lluis\Desktop\Visual 2018\C#\9._EditorGrafoB\EditorFiguras1\bin\Debug\EditorFiguras1.exe
+C:\Users\lluis\Desktop\Visual 2018\C#\9._EditorGrafoB\EditorFiguras1\bin\Debug\EditorFiguras1.pdb
+C:\Users\lluis\Desktop\Visual 2018\C#\9._EditorGrafoB\EditorFiguras1\obj\Debug\EditorFiguras1.Form1.resources
+C:\Users\lluis\Desktop\Visual 2018\C#\9._EditorGrafoB\EditorFiguras1\obj\Debug\EditorFiguras1.Properties.Resources.resources
+C:\Users\lluis\Desktop\Visual 2018\C#\9._EditorGrafoB\EditorFiguras1\obj\Debug\EditorFiguras1.csproj.GenerateResource.Cache
+C:\Users\lluis\Desktop\Visual 2018\C#\9._EditorGrafoB\EditorFiguras1\obj\Debug\EditorFiguras1.exe
+C:\Users\lluis\Desktop\Visual 2018\C#\9._EditorGrafoB\EditorFiguras1\obj\Debug\EditorFiguras1.pdb
+C:\Users\lluis\Desktop\Visual 2018\C#\9._EditorGrafoB\EditorFiguras1\obj\Debug\EditorFiguras1.csprojResolveAssemblyReference.cache
+C:\Users\lluis\Desktop\Visual 2018\C#\9._EditorGrafoB - Probando\EditorFiguras1\bin\Debug\EditorFiguras1.exe.config
+C:\Users\lluis\Desktop\Visual 2018\C#\9._EditorGrafoB - Probando\EditorFiguras1\obj\Debug\EditorFiguras1.exe
+C:\Users\lluis\Desktop\Visual 2018\C#\9._EditorGrafoB - Probando\EditorFiguras1\obj\Debug\EditorFiguras1.pdb
+C:\Users\lluis\Desktop\Visual 2018\C#\9._EditorGrafoB - Probando\EditorFiguras1\bin\Debug\EditorFiguras1.exe
+C:\Users\lluis\Desktop\Visual 2018\C#\9._EditorGrafoB - Probando\EditorFiguras1\bin\Debug\EditorFiguras1.pdb
+C:\Users\lluis\Desktop\Visual 2018\C#\9._EditorGrafoB - Probando\EditorFiguras1\obj\Debug\EditorFiguras1.csprojResolveAssemblyReference.cache
+C:\Users\lluis\Desktop\Visual 2018\C#\9._EditorGrafoB - Probando\EditorFiguras1\obj\Debug\EditorFiguras1.Form1.resources
+C:\Users\lluis\Desktop\Visual 2018\C#\9._EditorGrafoB - Probando\EditorFiguras1\obj\Debug\EditorFiguras1.Properties.Resources.resources
+C:\Users\lluis\Desktop\Visual 2018\C#\9._EditorGrafoB - Probando\EditorFiguras1\obj\Debug\EditorFiguras1.csproj.GenerateResource.Cache
+C:\Users\lluis\OneDrive\Documentos\Materias 5to Semestre\5to Semestre\Visual 2018\C#\9._EditorGrafoB - Probando\EditorFiguras1\bin\Debug\EditorFiguras1.exe.config
+C:\Users\lluis\OneDrive\Documentos\Materias 5to Semestre\5to Semestre\Visual 2018\C#\9._EditorGrafoB - Probando\EditorFiguras1\bin\Debug\EditorFiguras1.exe
+C:\Users\lluis\OneDrive\Documentos\Materias 5to Semestre\5to Semestre\Visual 2018\C#\9._EditorGrafoB - Probando\EditorFiguras1\bin\Debug\EditorFiguras1.pdb
+C:\Users\lluis\OneDrive\Documentos\Materias 5to Semestre\5to Semestre\Visual 2018\C#\9._EditorGrafoB - Probando\EditorFiguras1\obj\Debug\EditorFiguras1.csprojAssemblyReference.cache
+C:\Users\lluis\OneDrive\Documentos\Materias 5to Semestre\5to Semestre\Visual 2018\C#\9._EditorGrafoB - Probando\EditorFiguras1\obj\Debug\EditorFiguras1.Form1.resources
+C:\Users\lluis\OneDrive\Documentos\Materias 5to Semestre\5to Semestre\Visual 2018\C#\9._EditorGrafoB - Probando\EditorFiguras1\obj\Debug\EditorFiguras1.Properties.Resources.resources
+C:\Users\lluis\OneDrive\Documentos\Materias 5to Semestre\5to Semestre\Visual 2018\C#\9._EditorGrafoB - Probando\EditorFiguras1\obj\Debug\EditorFiguras1.csproj.GenerateResource.cache
+C:\Users\lluis\OneDrive\Documentos\Materias 5to Semestre\5to Semestre\Visual 2018\C#\9._EditorGrafoB - Probando\EditorFiguras1\obj\Debug\EditorFiguras1.csproj.CoreCompileInputs.cache
+C:\Users\lluis\OneDrive\Documentos\Materias 5to Semestre\5to Semestre\Visual 2018\C#\9._EditorGrafoB - Probando\EditorFiguras1\obj\Debug\EditorFiguras1.exe
+C:\Users\lluis\OneDrive\Documentos\Materias 5to Semestre\5to Semestre\Visual 2018\C#\9._EditorGrafoB - Probando\EditorFiguras1\obj\Debug\EditorFiguras1.pdb
+C:\Users\lluis\Desktop\6to Semestre\Grafos\9._EditorGrafoB - Probando\EditorFiguras1\bin\Debug\EditorFiguras1.exe.config
+C:\Users\lluis\Desktop\6to Semestre\Grafos\9._EditorGrafoB - Probando\EditorFiguras1\bin\Debug\EditorFiguras1.exe
+C:\Users\lluis\Desktop\6to Semestre\Grafos\9._EditorGrafoB - Probando\EditorFiguras1\bin\Debug\EditorFiguras1.pdb
+C:\Users\lluis\Desktop\6to Semestre\Grafos\9._EditorGrafoB - Probando\EditorFiguras1\obj\Debug\EditorFiguras1.csprojAssemblyReference.cache
+C:\Users\lluis\Desktop\6to Semestre\Grafos\9._EditorGrafoB - Probando\EditorFiguras1\obj\Debug\EditorFiguras1.Form1.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\9._EditorGrafoB - Probando\EditorFiguras1\obj\Debug\EditorFiguras1.Properties.Resources.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\9._EditorGrafoB - Probando\EditorFiguras1\obj\Debug\EditorFiguras1.csproj.GenerateResource.cache
+C:\Users\lluis\Desktop\6to Semestre\Grafos\9._EditorGrafoB - Probando\EditorFiguras1\obj\Debug\EditorFiguras1.csproj.CoreCompileInputs.cache
+C:\Users\lluis\Desktop\6to Semestre\Grafos\9._EditorGrafoB - Probando\EditorFiguras1\obj\Debug\EditorFiguras1.exe
+C:\Users\lluis\Desktop\6to Semestre\Grafos\9._EditorGrafoB - Probando\EditorFiguras1\obj\Debug\EditorFiguras1.pdb
+C:\Users\lluis\Desktop\6to Semestre\Grafos\EditorDeGrafos\EditorFiguras1\bin\Debug\EditorFiguras1.exe.config
+C:\Users\lluis\Desktop\6to Semestre\Grafos\EditorDeGrafos\EditorFiguras1\bin\Debug\EditorFiguras1.exe
+C:\Users\lluis\Desktop\6to Semestre\Grafos\EditorDeGrafos\EditorFiguras1\bin\Debug\EditorFiguras1.pdb
+C:\Users\lluis\Desktop\6to Semestre\Grafos\EditorDeGrafos\EditorFiguras1\obj\Debug\EditorFiguras1.csprojAssemblyReference.cache
+C:\Users\lluis\Desktop\6to Semestre\Grafos\EditorDeGrafos\EditorFiguras1\obj\Debug\EditorFiguras1.Form1.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\EditorDeGrafos\EditorFiguras1\obj\Debug\EditorFiguras1.Properties.Resources.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\EditorDeGrafos\EditorFiguras1\obj\Debug\EditorFiguras1.RepresentacionesLA.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\EditorDeGrafos\EditorFiguras1\obj\Debug\EditorFiguras1.RepresentacionMA.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\EditorDeGrafos\EditorFiguras1\obj\Debug\EditorFiguras1.csproj.GenerateResource.cache
+C:\Users\lluis\Desktop\6to Semestre\Grafos\EditorDeGrafos\EditorFiguras1\obj\Debug\EditorFiguras1.csproj.CoreCompileInputs.cache
+C:\Users\lluis\Desktop\6to Semestre\Grafos\EditorDeGrafos\EditorFiguras1\obj\Debug\EditorFiguras1.exe
+C:\Users\lluis\Desktop\6to Semestre\Grafos\EditorDeGrafos\EditorFiguras1\obj\Debug\EditorFiguras1.pdb
+C:\Users\lluis\Desktop\6to Semestre\Grafos\EditorDeGrafos\EditorFiguras1\obj\Debug\EditorFiguras1.RepresentacionMI.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\EditorDeGrafos\EditorFiguras1\obj\Debug\EditorFiguras1.Grados.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\EditorDeGrafos Final1erParcial\EditorFiguras1\bin\Debug\EditorFiguras1.exe.config
+C:\Users\lluis\Desktop\6to Semestre\Grafos\EditorDeGrafos Final1erParcial\EditorFiguras1\bin\Debug\EditorFiguras1.exe
+C:\Users\lluis\Desktop\6to Semestre\Grafos\EditorDeGrafos Final1erParcial\EditorFiguras1\bin\Debug\EditorFiguras1.pdb
+C:\Users\lluis\Desktop\6to Semestre\Grafos\EditorDeGrafos Final1erParcial\EditorFiguras1\obj\Debug\EditorFiguras1.Form1.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\EditorDeGrafos Final1erParcial\EditorFiguras1\obj\Debug\EditorFiguras1.Grados.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\EditorDeGrafos Final1erParcial\EditorFiguras1\obj\Debug\EditorFiguras1.Properties.Resources.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\EditorDeGrafos Final1erParcial\EditorFiguras1\obj\Debug\EditorFiguras1.RepresentacionesLA.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\EditorDeGrafos Final1erParcial\EditorFiguras1\obj\Debug\EditorFiguras1.RepresentacionMA.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\EditorDeGrafos Final1erParcial\EditorFiguras1\obj\Debug\EditorFiguras1.RepresentacionMI.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\EditorDeGrafos Final1erParcial\EditorFiguras1\obj\Debug\EditorFiguras1.csproj.GenerateResource.cache
+C:\Users\lluis\Desktop\6to Semestre\Grafos\EditorDeGrafos Final1erParcial\EditorFiguras1\obj\Debug\EditorFiguras1.csproj.CoreCompileInputs.cache
+C:\Users\lluis\Desktop\6to Semestre\Grafos\EditorDeGrafos Final1erParcial\EditorFiguras1\obj\Debug\EditorFiguras1.exe
+C:\Users\lluis\Desktop\6to Semestre\Grafos\EditorDeGrafos Final1erParcial\EditorFiguras1\obj\Debug\EditorFiguras1.pdb
+C:\Users\lluis\Desktop\6to Semestre\Grafos\EditorDeGrafos Final1erParcial\EditorFiguras1\obj\Debug\EditorFiguras1.csprojAssemblyReference.cache
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 1\EditorDeGrafos Final1erParcial\EditorFiguras1\bin\Debug\EditorFiguras1.exe.config
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 1\EditorDeGrafos Final1erParcial\EditorFiguras1\bin\Debug\EditorFiguras1.exe
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 1\EditorDeGrafos Final1erParcial\EditorFiguras1\bin\Debug\EditorFiguras1.pdb
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 1\EditorDeGrafos Final1erParcial\EditorFiguras1\obj\Debug\EditorFiguras1.csprojAssemblyReference.cache
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 1\EditorDeGrafos Final1erParcial\EditorFiguras1\obj\Debug\EditorFiguras1.Form1.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 1\EditorDeGrafos Final1erParcial\EditorFiguras1\obj\Debug\EditorFiguras1.Grados.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 1\EditorDeGrafos Final1erParcial\EditorFiguras1\obj\Debug\EditorFiguras1.Properties.Resources.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 1\EditorDeGrafos Final1erParcial\EditorFiguras1\obj\Debug\EditorFiguras1.RepresentacionesLA.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 1\EditorDeGrafos Final1erParcial\EditorFiguras1\obj\Debug\EditorFiguras1.RepresentacionMA.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 1\EditorDeGrafos Final1erParcial\EditorFiguras1\obj\Debug\EditorFiguras1.RepresentacionMI.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 1\EditorDeGrafos Final1erParcial\EditorFiguras1\obj\Debug\EditorFiguras1.csproj.GenerateResource.cache
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 1\EditorDeGrafos Final1erParcial\EditorFiguras1\obj\Debug\EditorFiguras1.csproj.CoreCompileInputs.cache
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 1\EditorDeGrafos Final1erParcial\EditorFiguras1\obj\Debug\EditorFiguras1.exe
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 1\EditorDeGrafos Final1erParcial\EditorFiguras1\obj\Debug\EditorFiguras1.pdb
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 2\EditorDeGrafos\EditorFiguras1\bin\Debug\EditorFiguras1.exe.config
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 2\EditorDeGrafos\EditorFiguras1\bin\Debug\EditorFiguras1.exe
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 2\EditorDeGrafos\EditorFiguras1\bin\Debug\EditorFiguras1.pdb
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 2\EditorDeGrafos\EditorFiguras1\obj\Debug\EditorFiguras1.Form1.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 2\EditorDeGrafos\EditorFiguras1\obj\Debug\EditorFiguras1.Grados.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 2\EditorDeGrafos\EditorFiguras1\obj\Debug\EditorFiguras1.Properties.Resources.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 2\EditorDeGrafos\EditorFiguras1\obj\Debug\EditorFiguras1.RepresentacionesLA.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 2\EditorDeGrafos\EditorFiguras1\obj\Debug\EditorFiguras1.RepresentacionMA.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 2\EditorDeGrafos\EditorFiguras1\obj\Debug\EditorFiguras1.RepresentacionMI.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 2\EditorDeGrafos\EditorFiguras1\obj\Debug\EditorFiguras1.csproj.GenerateResource.cache
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 2\EditorDeGrafos\EditorFiguras1\obj\Debug\EditorFiguras1.csproj.CoreCompileInputs.cache
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 2\EditorDeGrafos\EditorFiguras1\obj\Debug\EditorFiguras1.exe
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 2\EditorDeGrafos\EditorFiguras1\obj\Debug\EditorFiguras1.pdb
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 2\EditorDeGrafos\EditorFiguras1\obj\Debug\EditorFiguras1.Form2.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 2\EditorDeGrafos\EditorFiguras1\obj\Debug\EditorFiguras1.csprojAssemblyReference.cache
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 2\EditorDeGrafos\EditorFiguras1\obj\Debug\EditorFiguras1.IsoGrados.resources
+C:\Users\lluis\Desktop\Examen\6to Semestre\Grafos\Parcial 2\EditorDeGrafos\EditorFiguras1\bin\Debug\EditorFiguras1.exe.config
+C:\Users\lluis\Desktop\Examen\6to Semestre\Grafos\Parcial 2\EditorDeGrafos\EditorFiguras1\bin\Debug\EditorFiguras1.exe
+C:\Users\lluis\Desktop\Examen\6to Semestre\Grafos\Parcial 2\EditorDeGrafos\EditorFiguras1\bin\Debug\EditorFiguras1.pdb
+C:\Users\lluis\Desktop\Examen\6to Semestre\Grafos\Parcial 2\EditorDeGrafos\EditorFiguras1\obj\Debug\EditorFiguras1.csprojAssemblyReference.cache
+C:\Users\lluis\Desktop\Examen\6to Semestre\Grafos\Parcial 2\EditorDeGrafos\EditorFiguras1\obj\Debug\EditorFiguras1.Form1.resources
+C:\Users\lluis\Desktop\Examen\6to Semestre\Grafos\Parcial 2\EditorDeGrafos\EditorFiguras1\obj\Debug\EditorFiguras1.Form2.resources
+C:\Users\lluis\Desktop\Examen\6to Semestre\Grafos\Parcial 2\EditorDeGrafos\EditorFiguras1\obj\Debug\EditorFiguras1.Grados.resources
+C:\Users\lluis\Desktop\Examen\6to Semestre\Grafos\Parcial 2\EditorDeGrafos\EditorFiguras1\obj\Debug\EditorFiguras1.IsoGrados.resources
+C:\Users\lluis\Desktop\Examen\6to Semestre\Grafos\Parcial 2\EditorDeGrafos\EditorFiguras1\obj\Debug\EditorFiguras1.Properties.Resources.resources
+C:\Users\lluis\Desktop\Examen\6to Semestre\Grafos\Parcial 2\EditorDeGrafos\EditorFiguras1\obj\Debug\EditorFiguras1.RepresentacionesLA.resources
+C:\Users\lluis\Desktop\Examen\6to Semestre\Grafos\Parcial 2\EditorDeGrafos\EditorFiguras1\obj\Debug\EditorFiguras1.RepresentacionMA.resources
+C:\Users\lluis\Desktop\Examen\6to Semestre\Grafos\Parcial 2\EditorDeGrafos\EditorFiguras1\obj\Debug\EditorFiguras1.RepresentacionMI.resources
+C:\Users\lluis\Desktop\Examen\6to Semestre\Grafos\Parcial 2\EditorDeGrafos\EditorFiguras1\obj\Debug\EditorFiguras1.csproj.GenerateResource.cache
+C:\Users\lluis\Desktop\Examen\6to Semestre\Grafos\Parcial 2\EditorDeGrafos\EditorFiguras1\obj\Debug\EditorFiguras1.csproj.CoreCompileInputs.cache
+C:\Users\lluis\Desktop\Examen\6to Semestre\Grafos\Parcial 2\EditorDeGrafos\EditorFiguras1\obj\Debug\EditorFiguras1.exe
+C:\Users\lluis\Desktop\Examen\6to Semestre\Grafos\Parcial 2\EditorDeGrafos\EditorFiguras1\obj\Debug\EditorFiguras1.pdb
+C:\Users\lluis\Desktop\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.csprojAssemblyReference.cache
+C:\Users\lluis\Desktop\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.Form1.resources
+C:\Users\lluis\Desktop\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.Form2.resources
+C:\Users\lluis\Desktop\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.Grados.resources
+C:\Users\lluis\Desktop\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.IsoGrados.resources
+C:\Users\lluis\Desktop\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.Properties.Resources.resources
+C:\Users\lluis\Desktop\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.RepresentacionesLA.resources
+C:\Users\lluis\Desktop\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.RepresentacionMA.resources
+C:\Users\lluis\Desktop\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.RepresentacionMI.resources
+C:\Users\lluis\Desktop\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.csproj.GenerateResource.cache
+C:\Users\lluis\Desktop\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.csproj.CoreCompileInputs.cache
+C:\Users\lluis\Desktop\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.exe
+C:\Users\lluis\Desktop\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.pdb
+C:\Users\lluis\Desktop\EditorDeGrafosVerFinal\EditorFiguras1\bin\Debug\EditorFiguras1.exe.config
+C:\Users\lluis\Desktop\EditorDeGrafosVerFinal\EditorFiguras1\bin\Debug\EditorFiguras1.exe
+C:\Users\lluis\Desktop\EditorDeGrafosVerFinal\EditorFiguras1\bin\Debug\EditorFiguras1.pdb
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 2\EditorDeGrafosVerFinal\EditorFiguras1\bin\Debug\EditorFiguras1.exe.config
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 2\EditorDeGrafosVerFinal\EditorFiguras1\bin\Debug\EditorFiguras1.exe
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 2\EditorDeGrafosVerFinal\EditorFiguras1\bin\Debug\EditorFiguras1.pdb
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 2\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.csprojAssemblyReference.cache
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 2\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.Form1.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 2\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.Form2.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 2\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.Grados.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 2\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.IsoGrados.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 2\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.Properties.Resources.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 2\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.RepresentacionesLA.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 2\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.RepresentacionMA.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 2\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.RepresentacionMI.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 2\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.csproj.GenerateResource.cache
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 2\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.csproj.CoreCompileInputs.cache
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 2\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.exe
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 2\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.pdb
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 2\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.kuraElec.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial 2\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.KuraIntera.resources
+E:\Editor3Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\bin\Debug\EditorFiguras1.exe.config
+E:\Editor3Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\bin\Debug\EditorFiguras1.exe
+E:\Editor3Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\bin\Debug\EditorFiguras1.pdb
+E:\Editor3Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.csprojAssemblyReference.cache
+E:\Editor3Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.Form1.resources
+E:\Editor3Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.Form2.resources
+E:\Editor3Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.Grados.resources
+E:\Editor3Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.IsoGrados.resources
+E:\Editor3Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.kuraElec.resources
+E:\Editor3Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.KuraIntera.resources
+E:\Editor3Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.Properties.Resources.resources
+E:\Editor3Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.RepresentacionesLA.resources
+E:\Editor3Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.RepresentacionMA.resources
+E:\Editor3Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.RepresentacionMI.resources
+E:\Editor3Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.csproj.GenerateResource.cache
+E:\Editor3Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.csproj.CoreCompileInputs.cache
+E:\Editor3Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.exe
+E:\Editor3Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.pdb
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial4\Editor3Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\bin\Debug\EditorFiguras1.exe.config
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial4\Editor3Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\bin\Debug\EditorFiguras1.exe
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial4\Editor3Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\bin\Debug\EditorFiguras1.pdb
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial4\Editor3Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.csprojAssemblyReference.cache
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial4\Editor3Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.Form1.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial4\Editor3Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.Form2.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial4\Editor3Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.Grados.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial4\Editor3Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.IsoGrados.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial4\Editor3Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.kuraElec.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial4\Editor3Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.KuraIntera.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial4\Editor3Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.Properties.Resources.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial4\Editor3Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.RepresentacionesLA.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial4\Editor3Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.RepresentacionMA.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial4\Editor3Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.RepresentacionMI.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial4\Editor3Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.csproj.GenerateResource.cache
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial4\Editor3Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.csproj.CoreCompileInputs.cache
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial4\Editor3Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.exe
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial4\Editor3Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.pdb
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial4\Editor3Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.PideDato.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial4\Editor3Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.FloydMat.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial5\Editor4Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\bin\Debug\EditorFiguras1.exe.config
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial5\Editor4Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\bin\Debug\EditorFiguras1.exe
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial5\Editor4Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\bin\Debug\EditorFiguras1.pdb
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial5\Editor4Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.csprojAssemblyReference.cache
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial5\Editor4Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.FloydMat.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial5\Editor4Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.Form1.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial5\Editor4Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.Form2.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial5\Editor4Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.Grados.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial5\Editor4Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.IsoGrados.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial5\Editor4Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.kuraElec.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial5\Editor4Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.KuraIntera.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial5\Editor4Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.PideDato.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial5\Editor4Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.Properties.Resources.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial5\Editor4Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.RepresentacionesLA.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial5\Editor4Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.RepresentacionMA.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial5\Editor4Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.RepresentacionMI.resources
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial5\Editor4Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.csproj.GenerateResource.cache
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial5\Editor4Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.csproj.CoreCompileInputs.cache
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial5\Editor4Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.exe
+C:\Users\lluis\Desktop\6to Semestre\Grafos\Parcial5\Editor4Parcial\EditorDeGrafosVerFinal3Parcial\EditorFiguras1\obj\Debug\EditorFiguras1.pdb
+E:\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\bin\Debug\EditorFiguras1.exe.config
+E:\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\bin\Debug\EditorFiguras1.exe
+E:\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\bin\Debug\EditorFiguras1.pdb
+E:\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.csprojAssemblyReference.cache
+E:\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.FloydMat.resources
+E:\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.Form1.resources
+E:\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.Form2.resources
+E:\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.Grados.resources
+E:\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.IsoGrados.resources
+E:\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.kuraElec.resources
+E:\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.KuraIntera.resources
+E:\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.PideDato.resources
+E:\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.Properties.Resources.resources
+E:\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.RepresentacionesLA.resources
+E:\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.RepresentacionMA.resources
+E:\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.RepresentacionMI.resources
+E:\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.csproj.GenerateResource.cache
+E:\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.csproj.CoreCompileInputs.cache
+E:\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.exe
+E:\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.pdb
+C:\Users\lluis\Desktop\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\bin\Debug\EditorFiguras1.exe.config
+C:\Users\lluis\Desktop\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\bin\Debug\EditorFiguras1.exe
+C:\Users\lluis\Desktop\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\bin\Debug\EditorFiguras1.pdb
+C:\Users\lluis\Desktop\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.csprojAssemblyReference.cache
+C:\Users\lluis\Desktop\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.FloydMat.resources
+C:\Users\lluis\Desktop\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.Form1.resources
+C:\Users\lluis\Desktop\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.Form2.resources
+C:\Users\lluis\Desktop\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.Grados.resources
+C:\Users\lluis\Desktop\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.IsoGrados.resources
+C:\Users\lluis\Desktop\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.kuraElec.resources
+C:\Users\lluis\Desktop\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.KuraIntera.resources
+C:\Users\lluis\Desktop\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.PideDato.resources
+C:\Users\lluis\Desktop\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.Properties.Resources.resources
+C:\Users\lluis\Desktop\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.RepresentacionesLA.resources
+C:\Users\lluis\Desktop\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.RepresentacionMA.resources
+C:\Users\lluis\Desktop\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.RepresentacionMI.resources
+C:\Users\lluis\Desktop\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.csproj.GenerateResource.cache
+C:\Users\lluis\Desktop\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.csproj.CoreCompileInputs.cache
+C:\Users\lluis\Desktop\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.exe
+C:\Users\lluis\Desktop\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.pdb
+C:\Users\lluis\Documents\ProyectosPasados\Grafos\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\bin\Debug\EditorFiguras1.exe.config
+C:\Users\lluis\Documents\ProyectosPasados\Grafos\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\bin\Debug\EditorFiguras1.exe
+C:\Users\lluis\Documents\ProyectosPasados\Grafos\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\bin\Debug\EditorFiguras1.pdb
+C:\Users\lluis\Documents\ProyectosPasados\Grafos\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.csprojAssemblyReference.cache
+C:\Users\lluis\Documents\ProyectosPasados\Grafos\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.FloydMat.resources
+C:\Users\lluis\Documents\ProyectosPasados\Grafos\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.Form1.resources
+C:\Users\lluis\Documents\ProyectosPasados\Grafos\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.Form2.resources
+C:\Users\lluis\Documents\ProyectosPasados\Grafos\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.Grados.resources
+C:\Users\lluis\Documents\ProyectosPasados\Grafos\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.IsoGrados.resources
+C:\Users\lluis\Documents\ProyectosPasados\Grafos\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.kuraElec.resources
+C:\Users\lluis\Documents\ProyectosPasados\Grafos\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.KuraIntera.resources
+C:\Users\lluis\Documents\ProyectosPasados\Grafos\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.PideDato.resources
+C:\Users\lluis\Documents\ProyectosPasados\Grafos\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.Properties.Resources.resources
+C:\Users\lluis\Documents\ProyectosPasados\Grafos\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.RepresentacionesLA.resources
+C:\Users\lluis\Documents\ProyectosPasados\Grafos\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.RepresentacionMA.resources
+C:\Users\lluis\Documents\ProyectosPasados\Grafos\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.RepresentacionMI.resources
+C:\Users\lluis\Documents\ProyectosPasados\Grafos\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.csproj.GenerateResource.cache
+C:\Users\lluis\Documents\ProyectosPasados\Grafos\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.csproj.CoreCompileInputs.cache
+C:\Users\lluis\Documents\ProyectosPasados\Grafos\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.exe
+C:\Users\lluis\Documents\ProyectosPasados\Grafos\FinEditorGrafos\Editor\EditorDeGrafosVerFinal\EditorFiguras1\obj\Debug\EditorFiguras1.pdb
